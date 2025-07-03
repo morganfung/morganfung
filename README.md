@@ -2,7 +2,7 @@
 
 
 - My name is Morgan Fung (true)
-- Education: pending... B.A. Computer Science, B.A. Applied Mathematics from the University of California, Berkeley (Grad. Fall '25)
+- Education: B.A. Computer Science, B.A. Applied Mathematics from the University of California, Berkeley (pending grad. Fall '25)
 - Currently: Software Dev. Intern at Niagara Bottling
 - Previously: Data Analyst intern at Southern California Edison
 - Fun fact: I have a fraternal twin brother
