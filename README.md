@@ -8,4 +8,4 @@
 - Fun fact:     I have a fraternal twin brother (Marco)
 - Hobbies:      Travel, Food, Sewing, Clothes, Mountain/Road Biking, League of Legends, E-Commerce, Bad Coffee
 - **Reach out** to me via email: morganfung2004@gmail.com
-- Or **LinkedIn**: https://www.linkedin.com/in/morganfung/
+- Or **LinkedIn**: https://www.linkedin.com/in/morgan-fung/
